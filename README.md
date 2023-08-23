@@ -1,7 +1,7 @@
 The diagram provided above gives a high-level overview of the AWS services used in this
 application. The services mentioned in the diagram are as follows:
 
- ![alt text](png) 
+ ![alt text](https://github.com/rohinimohan14/MedStore/blob/main/architecture.png) 
 
 ### AWS Elastic Beanstalk
 Elastic Beanstalk is a PaaS that is designed to support the complete web application
