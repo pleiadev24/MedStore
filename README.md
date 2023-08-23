@@ -1,7 +1,10 @@
+For instructions on AWS - Refer Developer manual.
 
+## Code 
 back-end code - https://github.com/rohinimohan14/MedStore-backend
-front-end code - 
+front-end code - https://github.com/SS3789796/medstore-frontend 
 
+## Architecture
 The diagram provided above gives a high-level overview of the AWS services used in this
 application. The services mentioned in the diagram are as follows:
 
